@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Help Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="aboutText">This application allows the user to send his/her coordinates to trusted contacts during an emergency situation.
+    The trusted contacts are stored before-hand. You can also dial HelpMe from contacts or press the Power Button twice to send your location.
+    </string>
+    <string name ="devopers"> HelpMe was developed during Huskie Hack 2016 by Shoaib Momin, Sufiyan Abdus Sadiq and Abdul Bari.</string>
+</resources>
